@@ -1,0 +1,4 @@
+body{font-family:"lucida grande",tahoma,verdana,arial,sans-serif; font-size:11px;}
+.box{background-color:#FFF;  border:1px solid #ccc; color: #ccc; float:left; height: 40px;  width: 50px; text-align: center; }
+.maze{height: 100%; margin: 0 auto; width: 520px; }
+.clear{ clear: both; height: 0px;};
